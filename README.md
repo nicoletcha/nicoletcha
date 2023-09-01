@@ -8,6 +8,6 @@
 </div>
 
 
-  
-![tenemos-a-la-ciencia-hora-de-ave(1)](https://github.com/astronicmn/astronicmn/assets/95356395/43762680-7e18-4d45-b265-376bf27522d0) ![arielnwilson-women-and-girls-in-science](https://github.com/astronicmn/astronicmn/assets/95356395/f70fa3f4-8c3c-4ef4-b93d-c1a2e38a2e67)
-
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/astronicmn/astronicmn/assets/95356395/43762680-7e18-4d45-b265-376bf27522d0">
+</p>  
